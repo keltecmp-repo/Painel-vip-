@@ -1,2 +1,2 @@
 # Painel-vip
- Painel-vip Créditos @Zorel-Joel
+ Painel-vip Créditos @Zorel
